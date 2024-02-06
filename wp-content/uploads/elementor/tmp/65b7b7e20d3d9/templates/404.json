@@ -1,0 +1,145 @@
+{
+    "version": "0.4",
+    "title": "404",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "14a8c631",
+            "settings": {
+                "flex_direction": "row",
+                "flex_align_items": "center",
+                "flex_wrap": "wrap",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "flex_justify_content_tablet": "center"
+            },
+            "elements": [
+                {
+                    "id": "5bc19fae",
+                    "settings": {
+                        "image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/5.png",
+                            "id": 1344,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "_animation": "fadeInLeft"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "24e498c7",
+                    "settings": {
+                        "image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Global-Education-404.png",
+                            "id": 1346,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "hover_animation": "float",
+                        "_animation": "fadeInUp"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "c05cd6c",
+                    "settings": {
+                        "image": {
+                            "url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/5.png",
+                            "id": 1344,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "_animation": "fadeInRight"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "image",
+                    "elType": "widget"
+                },
+                {
+                    "id": "23e7ba49",
+                    "settings": {
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "7ba8e151",
+                            "settings": {
+                                "title": "Page Not Found",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "539ca18b",
+                            "settings": {
+                                "text": "Back to Home",
+                                "align": "center",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

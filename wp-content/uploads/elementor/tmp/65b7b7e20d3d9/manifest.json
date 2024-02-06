@@ -1,0 +1,1385 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Pintar - Online Courses Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Menu",
+            "screenshot": "screenshots\/tab-menu.png",
+            "source": "templates\/tab-menu.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/tab-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform",
+            "screenshot": "screenshots\/metform.png",
+            "source": "templates\/metform.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footers",
+            "screenshot": "screenshots\/footers.png",
+            "source": "templates\/footers.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/footers\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Teacher Detail",
+            "screenshot": "screenshots\/teacher-detail.png",
+            "source": "templates\/teacher-detail.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/teacher-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.png",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Course",
+            "screenshot": "screenshots\/detail-course.png",
+            "source": "templates\/detail-course.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/detail-course\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Course",
+            "screenshot": "screenshots\/course.png",
+            "source": "templates\/course.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/course\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.nirmanavisual.com\/pintar\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "3.7.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.16.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "2.0.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.17",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Courses-Image4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Courses-Image4.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-menu.json",
+                    "name": "Tab Menu"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 68908,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-afro-american-woman-attending-online-cour-R5KX7G2"
+        },
+        {
+            "filename": "e-learning-01.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/e-learning-01.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-menu.json",
+                    "name": "Tab Menu"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 453,
+            "dimensions": [
+                17,
+                16
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Courses-Image3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Courses-Image3.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-menu.json",
+                    "name": "Tab Menu"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 69720,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-shouting-into-megaphone-making-announcem-MN2BA7G"
+        },
+        {
+            "filename": "Courses-Image2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Courses-Image2.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-menu.json",
+                    "name": "Tab Menu"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 72500,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-language-courses-muslim-woman-holding-inter-S42WD9U"
+        },
+        {
+            "filename": "Courses-Image1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Courses-Image1.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-menu.json",
+                    "name": "Tab Menu"
+                },
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 60669,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-black-teen-guy-sitting-with-laptop-in-chair--7SA9G6S"
+        },
+        {
+            "filename": "Logo-Pintar.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Logo-Pintar.png",
+            "templates": [
+                {
+                    "source": "templates\/footers.json",
+                    "name": "Footers"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 14018,
+            "dimensions": [
+                352,
+                355
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/luxurious-logo-5QXX6R"
+        },
+        {
+            "filename": "Teacher-Details.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Teacher-Details.png",
+            "templates": [
+                {
+                    "source": "templates\/teacher-detail.json",
+                    "name": "Teacher Detail"
+                }
+            ],
+            "filesize": 244222,
+            "dimensions": [
+                422,
+                517
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vertical-photo-of-arabian-businessman-teacher-lect-DZ5VDAC"
+        },
+        {
+            "filename": "Mobile-App-Flip-BG-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Mobile-App-Flip-BG-1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 190074,
+            "dimensions": [
+                705,
+                799
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mobile-App-Image.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Mobile-App-Image.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117460,
+            "dimensions": [
+                482,
+                740
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/isolated-woman-on-a-yellow-background-showing-show-6G9ZJNY"
+        },
+        {
+            "filename": "Hero-Team2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Team2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2000,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-756DLWY"
+        },
+        {
+            "filename": "Hero-Team1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Team1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1999,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-756DLWY"
+        },
+        {
+            "filename": "Hero-Team3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Team3.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2076,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-756DLWY"
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 3354,
+            "dimensions": [
+                320,
+                345
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Global-Education-404.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Global-Education-404.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 159314,
+            "dimensions": [
+                419,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-3d-icon-72P3LCE"
+        },
+        {
+            "filename": "4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/4.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145322,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-grey-hair-professor-standing-with-crossed--Q7YV7VK"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 166133,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/aged-teacher-AM5GVPM"
+        },
+        {
+            "filename": "3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/3.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 150960,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-senior-man-with-a-book-H6AHGR8"
+        },
+        {
+            "filename": "6.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/6.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 156706,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-young-man-in-a-suit-with-his-arms-crossed-7Q6ZLNN"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/2.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 176455,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-male-teacher-portrait-9RAECR4"
+        },
+        {
+            "filename": "5-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145371,
+            "dimensions": [
+                359,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vertical-photo-of-arabian-businessman-teacher-lect-DZ5VDAC"
+        },
+        {
+            "filename": "About-Image-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-course.json",
+                    "name": "Detail Course"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 116315,
+            "dimensions": [
+                666,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-30s-caucasian-businessman-having-online-EQN2U9X"
+        },
+        {
+            "filename": "Teacher.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Teacher.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-course.json",
+                    "name": "Detail Course"
+                }
+            ],
+            "filesize": 21605,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/female-teacher-showing-thumbs-up-gesture-explainin-83AQ93W"
+        },
+        {
+            "filename": "pretty-teen-girl-going-to-school-jumping-on-yello-2023-09-21-21-17-22-utc-Background-Removed-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/pretty-teen-girl-going-to-school-jumping-on-yello-2023-09-21-21-17-22-utc-Background-Removed-1.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 72784,
+            "dimensions": [
+                208,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-teen-girl-going-to-school-jumping-on-yellow-W8A72S2"
+        },
+        {
+            "filename": "Icon-3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2030,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Icon.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Icon.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1012,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Icon-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1074,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 992,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "happy-indian-guy-freelancer-using-modern-laptop-p-2022-12-16-08-54-04-utc.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/happy-indian-guy-freelancer-using-modern-laptop-p-2022-12-16-08-54-04-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 71084,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-indian-guy-freelancer-using-modern-laptop-pr-BF5CMAN"
+        },
+        {
+            "filename": "emotional-african-american-guy-holding-laptop-and-2022-12-16-06-51-28-utc.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/emotional-african-american-guy-holding-laptop-and-2022-12-16-06-51-28-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 74976,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/emotional-african-american-guy-holding-laptop-and--XEYPKQ8"
+        },
+        {
+            "filename": "happy-african-american-teen-guy-sitting-on-floor-w-2022-12-16-08-11-25-utc.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/happy-african-american-teen-guy-sitting-on-floor-w-2022-12-16-08-11-25-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 45257,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-african-american-teen-guy-sitting-on-floor-w-MDV424Q"
+        },
+        {
+            "filename": "cheerful-arabic-guy-with-laptop-showing-thumb-up-2022-12-16-07-21-07-utc.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/cheerful-arabic-guy-with-laptop-showing-thumb-up-2022-12-16-07-21-07-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/course.json",
+                    "name": "Course"
+                }
+            ],
+            "filesize": 79052,
+            "dimensions": [
+                260,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-arabic-guy-with-laptop-showing-thumb-up-7AWXGYQ"
+        },
+        {
+            "filename": "About-Us1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Us1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 47919,
+            "dimensions": [
+                154,
+                213
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/positive-caucasian-woman-working-online-sitting-in-L9AXLRY"
+        },
+        {
+            "filename": "About-Us-Background.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Us-Background.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6194,
+            "dimensions": [
+                242,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "About-Us4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Us4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 51158,
+            "dimensions": [
+                160,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-black-teen-guy-sitting-with-laptop-in-chair--7SA9G6S"
+        },
+        {
+            "filename": "About-Us3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Us3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 111696,
+            "dimensions": [
+                687,
+                412
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/female-teacher-showing-thumbs-up-gesture-explainin-83AQ93W"
+        },
+        {
+            "filename": "About-Us2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/About-Us2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 136352,
+            "dimensions": [
+                246,
+                357
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/girl-sitting-at-desk-using-personal-computer-weari-QS8Z7A5"
+        },
+        {
+            "filename": "Why-Choose-BG.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Why-Choose-BG-800x733.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 352315,
+            "dimensions": [
+                1376,
+                1260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-young-woman-student-working-on-project-us-8VEVPY7"
+        },
+        {
+            "filename": "WhyChooseUs-Icon1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/WhyChooseUs-Icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1603,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "WhyChooseUs-Icon3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/WhyChooseUs-Icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9298,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "WhyChooseUs-Icon2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/WhyChooseUs-Icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8664,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "WhyChooseUs-Icon4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/WhyChooseUs-Icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8862,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Background-Hero-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Background-Hero-1-800x572.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 179469,
+            "dimensions": [
+                1300,
+                930
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Hero-Image-2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Image-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24787,
+            "dimensions": [
+                148,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/distance-learning-happy-arab-male-tutor-giving-onl-MJKFJJG"
+        },
+        {
+            "filename": "Hero-Image-3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 36763,
+            "dimensions": [
+                158,
+                158
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-smiling-lady-sitting-with-laptop-on-the-floo-9XNCVLA"
+        },
+        {
+            "filename": "Hero-Images-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Hero-Images-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 86157,
+            "dimensions": [
+                728,
+                566
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/emotional-african-american-guy-holding-laptop-and--XEYPKQ8"
+        },
+        {
+            "filename": "Video-Hero.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Video-Hero.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92657,
+            "dimensions": [
+                353,
+                230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-afro-american-woman-attending-online-cour-R5KX7G2"
+        },
+        {
+            "filename": "Popular-Course-BG.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Popular-Course-BG-800x83.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12089,
+            "dimensions": [
+                1101,
+                114
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/e-learning-outline-icons-NJVVGRF"
+        },
+        {
+            "filename": "Pricing-BG.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Pricing-BG.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4188,
+            "dimensions": [
+                626,
+                262
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "emotional-black-guy-shouting-gesturing-yes-in-mid-2022-12-16-06-59-54-utc-Background-Removed-1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/emotional-black-guy-shouting-gesturing-yes-in-mid-2022-12-16-06-59-54-utc-Background-Removed-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41429,
+            "dimensions": [
+                140,
+                278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/emotional-black-guy-shouting-gesturing-yes-in-mid--ZKHBSR9"
+        },
+        {
+            "filename": "Mobile-App-BG.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Mobile-App-BG.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 182896,
+            "dimensions": [
+                705,
+                799
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-Mobile-App.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Icon-Mobile-App.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44642,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/distance-learning-happy-arab-male-tutor-giving-onl-MJKFJJG"
+        },
+        {
+            "filename": "Testimonial1.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20092,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-AL9NAR7"
+        },
+        {
+            "filename": "Testimonial2.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20833,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-AL9NAR7"
+        },
+        {
+            "filename": "Testimonial3.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 32786,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-756DLWY"
+        },
+        {
+            "filename": "Testimonial6.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 26956,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-AL9NAR7"
+        },
+        {
+            "filename": "Testimonial5.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 25187,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-AL9NAR7"
+        },
+        {
+            "filename": "Testimonial4.png",
+            "thumbnail_url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Testimonial4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 25645,
+            "dimensions": [
+                148,
+                148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/composite-collage-of-happy-diverse-multicultural-m-AL9NAR7"
+        }
+    ]
+}

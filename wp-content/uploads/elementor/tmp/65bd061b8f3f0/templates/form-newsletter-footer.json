@@ -1,0 +1,229 @@
+{
+    "version": "0.4",
+    "title": "Form Newsletter Footer",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1e66ab0e",
+            "settings": {
+                "flex_direction": "row",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "4e95827f",
+                    "settings": {
+                        "flex_direction": "row",
+                        "flex_align_items": "center",
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=78899fb"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "39a60229",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 75,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4ad62bb2",
+                                    "settings": {
+                                        "mf_input_label_status": "",
+                                        "mf_input_label": "Email",
+                                        "mf_input_name": "mf-email",
+                                        "mf_input_placeholder": "Email address",
+                                        "mf_input_required": "yes",
+                                        "mf_input_validation_warning_message": "This field is required.",
+                                        "mf_input_padding": {
+                                            "unit": "px",
+                                            "top": "22",
+                                            "right": "30",
+                                            "bottom": "22",
+                                            "left": "30",
+                                            "isLinked": false
+                                        },
+                                        "mf_input_background_background": "classic",
+                                        "mf_input_background_color": "#02010100",
+                                        "mf_input_border_border": "none",
+                                        "__globals__": {
+                                            "mf_input_color": "globals\/colors?id=f8d6f79",
+                                            "mf_input_color_hover": "globals\/colors?id=f8d6f79",
+                                            "mf_input_color_focus": "globals\/colors?id=f8d6f79",
+                                            "mf_input_typgraphy_typography": "globals\/typography?id=d7e2a8e",
+                                            "mf_input_place_holder_typography_typography": "globals\/typography?id=d7e2a8e",
+                                            "mf_input_placeholder_color": "globals\/colors?id=f8d6f79"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "mf-email",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "5dd912fd",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "flex_align_items": "flex-end",
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "672e1366",
+                                    "settings": {
+                                        "mf_btn_text": "",
+                                        "mf_btn_icon": {
+                                            "value": "fas fa-paper-plane",
+                                            "library": "fa-solid"
+                                        },
+                                        "mf_btn_icon_align": "right",
+                                        "mf_hidden_input": [
+                                            {
+                                                "_id": "bd6b7f8",
+                                                "mf_hidden_input_name": "mf-hidden-input-name",
+                                                "mf_hidden_input_value": "mf_hidden_input_value",
+                                                "mf_hidden_input_class": "mf_hidden_input_class"
+                                            }
+                                        ],
+                                        "mf_btn_text_padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_bg_color_background": "classic",
+                                        "mf_btn_bg_hover_color_background": "classic",
+                                        "mf_btn_border_radius": {
+                                            "unit": "%",
+                                            "top": "100",
+                                            "right": "100",
+                                            "bottom": "100",
+                                            "left": "100",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_border_radius_laptop": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_border_radius_tablet_extra": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_border_radius_tablet": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_border_radius_mobile_extra": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_border_radius_mobile": {
+                                            "unit": "%",
+                                            "top": "",
+                                            "right": "",
+                                            "bottom": "",
+                                            "left": "",
+                                            "isLinked": true
+                                        },
+                                        "mf_btn_box_shadow_group_box_shadow_type": "yes",
+                                        "mf_btn_box_shadow_group_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 0,
+                                            "blur": 0,
+                                            "spread": 0,
+                                            "color": "rgba(0,0,0,0.5)"
+                                        },
+                                        "__globals__": {
+                                            "mf_btn_bg_color_color": "globals\/colors?id=secondary",
+                                            "mf_btn_text_color": "globals\/colors?id=f8d6f79",
+                                            "mf_btn_bg_hover_color_color": "globals\/colors?id=f8d6f79",
+                                            "mf_btn_hover_color": "globals\/colors?id=primary",
+                                            "mf_btn_normal_icon_color": "globals\/colors?id=f8d6f79",
+                                            "mf_btn_hover_icon_color": "globals\/colors?id=primary"
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "mf-button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

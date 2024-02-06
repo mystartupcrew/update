@@ -1,0 +1,3931 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Brote - Cleaning Services",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 01",
+            "screenshot": "screenshots\/header-style-01.jpg",
+            "source": "templates\/header-style-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/header-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 02",
+            "screenshot": "screenshots\/header-style-02.jpg",
+            "source": "templates\/header-style-02.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/header-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 03",
+            "screenshot": "screenshots\/header-style-03.jpg",
+            "source": "templates\/header-style-03.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/header-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter Footer",
+            "screenshot": "screenshots\/form-newsletter-footer.jpg",
+            "source": "templates\/form-newsletter-footer.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/form-newsletter-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact Home 01",
+            "screenshot": "screenshots\/form-contact-home-01.jpg",
+            "source": "templates\/form-contact-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/form-contact-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Estimate Home 03",
+            "screenshot": "screenshots\/form-estimate-home-03.jpg",
+            "source": "templates\/form-estimate-home-03.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/form-estimate-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact FAQs",
+            "screenshot": "screenshots\/form-contact-faqs.jpg",
+            "source": "templates\/form-contact-faqs.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/form-contact-faqs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Template Block 01 Testimonial Home 01",
+            "screenshot": "screenshots\/template-block-01-testimonial-home-01.jpg",
+            "source": "templates\/template-block-01-testimonial-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/template-block-01-testimonial-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Template Block 01 Project Home 01",
+            "screenshot": "screenshots\/template-block-01-project-home-01.jpg",
+            "source": "templates\/template-block-01-project-home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/template-block-01-project-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/home-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 03",
+            "screenshot": "screenshots\/home-03.jpg",
+            "source": "templates\/home-03.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/home-03\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 01",
+            "screenshot": "screenshots\/services-01.jpg",
+            "source": "templates\/services-01.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/services-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 02",
+            "screenshot": "screenshots\/services-02.jpg",
+            "source": "templates\/services-02.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/services-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 03",
+            "screenshot": "screenshots\/services-03.jpg",
+            "source": "templates\/services-03.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/services-03\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/themesflat.com\/brotekit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "2.0.7",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                },
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header Style 02"
+                },
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header Style 03"
+                }
+            ],
+            "filesize": 5448,
+            "dimensions": [
+                89,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                }
+            ],
+            "filesize": 900,
+            "dimensions": [
+                30,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                }
+            ],
+            "filesize": 789,
+            "dimensions": [
+                28,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                }
+            ],
+            "filesize": 1179,
+            "dimensions": [
+                28,
+                28
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                }
+            ],
+            "filesize": 1150,
+            "dimensions": [
+                26,
+                34
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Phone-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Phone-2.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header Style 02"
+                },
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header Style 03"
+                }
+            ],
+            "filesize": 2626,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header Style 03"
+                }
+            ],
+            "filesize": 4514,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bg-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-2-800x252.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 53832,
+            "dimensions": [
+                1920,
+                605
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shine.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/shine-800x396.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 139277,
+            "dimensions": [
+                1230,
+                609
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "base-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/base-3-800x155.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1683,
+            "dimensions": [
+                1050,
+                203
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8750,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "01-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-5.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1829,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-5.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1071,
+            "dimensions": [
+                48,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-5.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-5.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1519,
+            "dimensions": [
+                39,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "testimonial-H92P9TT.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-H92P9TT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/template-block-01-testimonial-home-01.json",
+                    "name": "Template Block 01 Testimonial Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 20318,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H92P9TT"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/template-block-01-testimonial-home-01.json",
+                    "name": "Template Block 01 Testimonial Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 705,
+            "dimensions": [
+                64,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Project-BC7U8G4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Project-BC7U8G4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/template-block-01-project-home-01.json",
+                    "name": "Template Block 01 Project Home 01"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 54898,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BC7U8G4"
+        },
+        {
+            "filename": "shadow.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/shadow.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3585,
+            "dimensions": [
+                585,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "slide_home01-XFXS9UE-e1702886878686.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/slide_home01-XFXS9UE-e1702886878686-800x495.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 105850,
+            "dimensions": [
+                1292,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XFXS9UE"
+        },
+        {
+            "filename": "slide_home01-ENJY2QY-e1702886914302.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/slide_home01-ENJY2QY-e1702886914302-800x495.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 144542,
+            "dimensions": [
+                1292,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ENJY2QY"
+        },
+        {
+            "filename": "slide_home01-MUHW95T.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/slide_home01-MUHW95T-800x495.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 122960,
+            "dimensions": [
+                1292,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MUHW95T"
+        },
+        {
+            "filename": "bubbles.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bubbles-800x96.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 39243,
+            "dimensions": [
+                1920,
+                231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 7389,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Line.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 94,
+            "dimensions": [
+                50,
+                3
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services_home01-2U3HM9N-e1702887271256.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home01-2U3HM9N-e1702887271256.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 29889,
+            "dimensions": [
+                400,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2U3HM9N"
+        },
+        {
+            "filename": "02-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 8824,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Line2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Line2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 97,
+            "dimensions": [
+                50,
+                3
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 7846,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-800x538.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 161882,
+            "dimensions": [
+                958,
+                644
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about_home02-2XY64SF.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/about_home02-2XY64SF.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 67227,
+            "dimensions": [
+                455,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2XY64SF"
+        },
+        {
+            "filename": "image2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/image2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 62945,
+            "dimensions": [
+                194,
+                193
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "aobut_home01-E2G7BGC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/aobut_home01-E2G7BGC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 8319,
+            "dimensions": [
+                155,
+                155
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E2G7BGC"
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 82,
+            "dimensions": [
+                20,
+                3
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Phone.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Phone.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2621,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg_01_services_home01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg_01_services_home01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 7261,
+            "dimensions": [
+                370,
+                259
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 3036,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Bubbles2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Bubbles2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 8817,
+            "dimensions": [
+                370,
+                259
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 3197,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 6139,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/04-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 7040,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "05.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 4660,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "06.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 4150,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Base-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Base-2-800x126.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 12924,
+            "dimensions": [
+                1170,
+                184
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2517,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3570,
+            "dimensions": [
+                66,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3119,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "04-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/04-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2776,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-1-800x383.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 172403,
+            "dimensions": [
+                1920,
+                920
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team_home01-NGN7DUH.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/team_home01-NGN7DUH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 62360,
+            "dimensions": [
+                540,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NGN7DUH"
+        },
+        {
+            "filename": "base-team-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/base-team-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 449,
+            "dimensions": [
+                144,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team_home01-EC98DMA.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/team_home01-EC98DMA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 73398,
+            "dimensions": [
+                540,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EC98DMA"
+        },
+        {
+            "filename": "team_home01-PM74WUK.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/team_home01-PM74WUK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 50368,
+            "dimensions": [
+                540,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM74WUK"
+        },
+        {
+            "filename": "team_home01-UHBC5KC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/team_home01-UHBC5KC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 73063,
+            "dimensions": [
+                540,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UHBC5KC"
+        },
+        {
+            "filename": "map.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/map-800x443.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 143502,
+            "dimensions": [
+                946,
+                524
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 4849,
+            "dimensions": [
+                148,
+                94
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "02-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 10007,
+            "dimensions": [
+                166,
+                86
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "03-4.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 5645,
+            "dimensions": [
+                145,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "04-3.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/04-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 5231,
+            "dimensions": [
+                117,
+                88
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "05-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/05-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 3958,
+            "dimensions": [
+                168,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "contact_home01-968JLYQ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/contact_home01-968JLYQ-800x615.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 110780,
+            "dimensions": [
+                1030,
+                792
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-968JLYQ"
+        },
+        {
+            "filename": "bg-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-1-800x472.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 12957,
+            "dimensions": [
+                1341,
+                792
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 84464,
+            "dimensions": [
+                292,
+                653
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Phone-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Phone-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 5300,
+            "dimensions": [
+                104,
+                97
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "lines.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/lines-800x357.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 149415,
+            "dimensions": [
+                1920,
+                856
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/image-6-800x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 86615,
+            "dimensions": [
+                1172,
+                702
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "bubbles-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bubbles-1-800x548.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 83059,
+            "dimensions": [
+                1027,
+                704
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "slide_home02-R48YLSP-e1702949596442.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/slide_home02-R48YLSP-e1702949596442-800x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 92359,
+            "dimensions": [
+                1172,
+                702
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R48YLSP"
+        },
+        {
+            "filename": "slide_home02-DAWFM53-e1702949569386.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/slide_home02-DAWFM53-e1702949569386-800x479.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 91263,
+            "dimensions": [
+                1172,
+                702
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DAWFM53"
+        },
+        {
+            "filename": "Stars.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Stars.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1194,
+            "dimensions": [
+                73,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 5787,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6780,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-6.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6274,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services_home02-GUB7ACP.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home02-GUB7ACP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 57759,
+            "dimensions": [
+                566,
+                566
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GUB7ACP"
+        },
+        {
+            "filename": "services_home02-L3WTPJK.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home02-L3WTPJK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 28145,
+            "dimensions": [
+                291,
+                293
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3WTPJK"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/circle.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4323,
+            "dimensions": [
+                154,
+                154
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3393,
+            "dimensions": [
+                88,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4044,
+            "dimensions": [
+                94,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-2-800x241.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 49471,
+            "dimensions": [
+                1917,
+                578
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services_home02-F2XTXC6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home02-F2XTXC6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 36495,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F2XTXC6"
+        },
+        {
+            "filename": "01-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 1632,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2-5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/image2-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 66402,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "02-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 4214,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image3-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/image3-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 71938,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "03-7.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 4965,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-3-800x327.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 79297,
+            "dimensions": [
+                1920,
+                785
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "faqs_home02-EKJHZMC.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/faqs_home02-EKJHZMC-800x693.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                }
+            ],
+            "filesize": 188171,
+            "dimensions": [
+                906,
+                785
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EKJHZMC"
+        },
+        {
+            "filename": "Arrows.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/Arrows.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6712,
+            "dimensions": [
+                801,
+                112
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01-9.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 10236,
+            "dimensions": [
+                134,
+                134
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "02-9.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 9109,
+            "dimensions": [
+                134,
+                134
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "03-8.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 5958,
+            "dimensions": [
+                134,
+                134
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-4-800x75.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 31440,
+            "dimensions": [
+                1920,
+                180
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape_services_home02.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/shape_services_home02-800x578.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 38191,
+            "dimensions": [
+                1025,
+                741
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services_home02-KSLH6E7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home02-KSLH6E7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 136386,
+            "dimensions": [
+                763,
+                690
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KSLH6E7"
+        },
+        {
+            "filename": "image2-7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/image2-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 58849,
+            "dimensions": [
+                246,
+                247
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "services_home02-6EX5VKQ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/services_home02-6EX5VKQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 52983,
+            "dimensions": [
+                288,
+                288
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6EX5VKQ"
+        },
+        {
+            "filename": "01-10.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/01-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3764,
+            "dimensions": [
+                44,
+                46
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "02-10.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/02-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 6999,
+            "dimensions": [
+                64,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "03-9.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/03-9.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 14292,
+            "dimensions": [
+                95,
+                107
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1816,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/bg-5-800x234.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 107621,
+            "dimensions": [
+                1920,
+                561
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image-800x326.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 217043,
+            "dimensions": [
+                1920,
+                783
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "line.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/line.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 671,
+            "dimensions": [
+                223,
+                11
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2-800x326.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 198417,
+            "dimensions": [
+                1920,
+                783
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image3-800x326.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 248318,
+            "dimensions": [
+                1920,
+                783
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 53262,
+            "dimensions": [
+                400,
+                237
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image2-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 143115,
+            "dimensions": [
+                430,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4MR468G"
+        },
+        {
+            "filename": "image-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 101898,
+            "dimensions": [
+                370,
+                440
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "dots.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/dots.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 3588,
+            "dimensions": [
+                119,
+                246
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg-800x412.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 64591,
+            "dimensions": [
+                1920,
+                989
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services_home03-F2XTXC6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services_home03-F2XTXC6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 89086,
+            "dimensions": [
+                540,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F2XTXC6"
+        },
+        {
+            "filename": "bubble.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bubble.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 4138,
+            "dimensions": [
+                270,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 4755,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 54076,
+            "dimensions": [
+                270,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 7872,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image3-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 55010,
+            "dimensions": [
+                270,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 8816,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services_home03-4ZGTRW6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services_home03-4ZGTRW6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 99616,
+            "dimensions": [
+                540,
+                534
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZGTRW6"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 6288,
+            "dimensions": [
+                119,
+                119
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "project_home03-BC7U8G4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/project_home03-BC7U8G4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 124730,
+            "dimensions": [
+                740,
+                744
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BC7U8G4"
+        },
+        {
+            "filename": "image2-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 68721,
+            "dimensions": [
+                370,
+                372
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "project_home03-R48YLSP.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/project_home03-R48YLSP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 122192,
+            "dimensions": [
+                740,
+                744
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R48YLSP"
+        },
+        {
+            "filename": "project_home03-D4PQWDR.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/project_home03-D4PQWDR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 144618,
+            "dimensions": [
+                740,
+                744
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D4PQWDR"
+        },
+        {
+            "filename": "image5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 83522,
+            "dimensions": [
+                370,
+                372
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "project_home03-326P3X4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/project_home03-326P3X4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 138825,
+            "dimensions": [
+                740,
+                744
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-326P3X4"
+        },
+        {
+            "filename": "image-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 23877,
+            "dimensions": [
+                453,
+                205
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4243,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 22432,
+            "dimensions": [
+                411,
+                213
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "02-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4893,
+            "dimensions": [
+                110,
+                110
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image-4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image-4-800x200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 150446,
+            "dimensions": [
+                1920,
+                480
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "lines.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/lines.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4651,
+            "dimensions": [
+                182,
+                88
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg-800x355.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 73059,
+            "dimensions": [
+                1920,
+                851
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg-1-800x127.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 15624,
+            "dimensions": [
+                1920,
+                305
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg_innerpages-Z4565XL.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg_innerpages-Z4565XL-800x177.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                },
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                },
+                {
+                    "source": "templates\/services-03.json",
+                    "name": "Services 03"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 87312,
+            "dimensions": [
+                1382,
+                305
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z4565XL"
+        },
+        {
+            "filename": "bubbles.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bubbles.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 20420,
+            "dimensions": [
+                428,
+                676
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-968JLYQ.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/about-968JLYQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 79570,
+            "dimensions": [
+                470,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-968JLYQ"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/circle.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 460,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "circle2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/circle2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 470,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team_about-NGN7DUH.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team_about-NGN7DUH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 52218,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NGN7DUH"
+        },
+        {
+            "filename": "base-team.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/11\/base-team.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 693,
+            "dimensions": [
+                189,
+                65
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team_about-UHBC5KC.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team_about-UHBC5KC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 59754,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UHBC5KC"
+        },
+        {
+            "filename": "team_about-PM74WUK.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team_about-PM74WUK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42491,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM74WUK"
+        },
+        {
+            "filename": "services-TYWZRTB.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services-TYWZRTB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 57593,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYWZRTB"
+        },
+        {
+            "filename": "services-4ZGTRW6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services-4ZGTRW6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 43825,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZGTRW6"
+        },
+        {
+            "filename": "01-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 2802,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services-XW5FNBK.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services-XW5FNBK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 47566,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XW5FNBK"
+        },
+        {
+            "filename": "02-2.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/02-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 1994,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "image3-5.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image3-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 68632,
+            "dimensions": [
+                370,
+                267
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "03-1.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services-01.json",
+                    "name": "Services 01"
+                }
+            ],
+            "filesize": 2531,
+            "dimensions": [
+                99,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "services_02-F2XTXC6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services_02-F2XTXC6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 32275,
+            "dimensions": [
+                270,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F2XTXC6"
+        },
+        {
+            "filename": "services_02-4ZGTRW6.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/services_02-4ZGTRW6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 34599,
+            "dimensions": [
+                270,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4ZGTRW6"
+        },
+        {
+            "filename": "bg-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg-2-800x373.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-02.json",
+                    "name": "Services 02"
+                }
+            ],
+            "filesize": 168629,
+            "dimensions": [
+                1920,
+                896
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonial-9SMK7PU.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-9SMK7PU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 14120,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9SMK7PU"
+        },
+        {
+            "filename": "testimonial-7PL637C.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-7PL637C.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 15533,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7PL637C"
+        },
+        {
+            "filename": "testimonial-8DSNDV8.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-8DSNDV8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 18820,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8DSNDV8"
+        },
+        {
+            "filename": "testimonial-MCSQQJD.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-MCSQQJD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 15502,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MCSQQJD"
+        },
+        {
+            "filename": "testimonial-WDL9YXT.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/testimonial-WDL9YXT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 17395,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WDL9YXT"
+        },
+        {
+            "filename": "image2-11.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image2-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 76005,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Project-Z7E3WZN.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Project-Z7E3WZN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 59959,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z7E3WZN"
+        },
+        {
+            "filename": "Project-D4PQWDR.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Project-D4PQWDR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 60154,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D4PQWDR"
+        },
+        {
+            "filename": "image5-2.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image5-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 98178,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "Project-326P3X4.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Project-326P3X4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 57636,
+            "dimensions": [
+                370,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-326P3X4"
+        },
+        {
+            "filename": "team-EC98DMA.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team-EC98DMA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 61283,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EC98DMA"
+        },
+        {
+            "filename": "team-UQFE2AU.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team-UQFE2AU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 53389,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UQFE2AU"
+        },
+        {
+            "filename": "team-WGN28RT.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/team-WGN28RT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 38746,
+            "dimensions": [
+                370,
+                444
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WGN28RT"
+        },
+        {
+            "filename": "image-14.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image-14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 99588,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "gallery-RUY4S9E.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/gallery-RUY4S9E.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 53986,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RUY4S9E"
+        },
+        {
+            "filename": "image3-8.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image3-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 86437,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image4-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image4-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 89056,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "image5-1.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/image5-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 113860,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/"
+        },
+        {
+            "filename": "gallery-P6HRHS7.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/gallery-P6HRHS7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 63266,
+            "dimensions": [
+                370,
+                438
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6HRHS7"
+        },
+        {
+            "filename": "bg_FAQs-E2G7BGC-e1703041871812.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg_FAQs-E2G7BGC-e1703041871812.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 26589,
+            "dimensions": [
+                370,
+                391
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E2G7BGC"
+        },
+        {
+            "filename": "Help.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Help.png",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 2748,
+            "dimensions": [
+                85,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-3.jpg",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/bg-3-800x424.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 169844,
+            "dimensions": [
+                1920,
+                1017
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Address.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Address.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 3109,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Email.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Email.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2729,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Phone.png",
+            "thumbnail_url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Phone.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 3210,
+            "dimensions": [
+                109,
+                109
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        }
+    ]
+}

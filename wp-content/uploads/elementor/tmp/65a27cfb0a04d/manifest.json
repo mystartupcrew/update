@@ -1,0 +1,1039 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Voiz \u2013 Music Management Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Artist",
+            "screenshot": "screenshots\/artist.jpg",
+            "source": "templates\/artist.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/artist\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Release",
+            "screenshot": "screenshots\/release.jpg",
+            "source": "templates\/release.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/release\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm - Contact Us Form",
+            "screenshot": "screenshots\/metform-contact-us-form.jpg",
+            "source": "templates\/metform-contact-us-form.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/metform-contact-us-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "JKit - Offcanvas",
+            "screenshot": "screenshots\/jkit-offcanvas.jpg",
+            "source": "templates\/jkit-offcanvas.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/jkit-offcanvas\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/voiz\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.4-dev-1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "08.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/08-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 198821,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RRZYHBL"
+        },
+        {
+            "filename": "recording-guitar-music-in-studio-e1653064891706.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/recording-guitar-music-in-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 313625,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MFTL78R"
+        },
+        {
+            "filename": "music-female-band-playing-on-instruments-e1653064919904.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/04\/music-female-band-playing-on-instruments-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 281179,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-36LA5D8"
+        },
+        {
+            "filename": "people-partying-at-a-concert.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/04\/people-partying-at-a-concert-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 141061,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AT5KBUQ"
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 4211,
+            "dimensions": [
+                339,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 4102,
+            "dimensions": [
+                339,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 4264,
+            "dimensions": [
+                334,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "logo5.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 4749,
+            "dimensions": [
+                335,
+                81
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "logoipsum.com"
+        },
+        {
+            "filename": "female-singer-sings-a-song-recording-studio.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/female-singer-sings-a-song-recording-studio-800x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 297623,
+            "dimensions": [
+                2000,
+                1313
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UBNSDGJ"
+        },
+        {
+            "filename": "man-playing-acoustic-guitar-in-studio.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/man-playing-acoustic-guitar-in-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 183260,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF8ZEXQ"
+        },
+        {
+            "filename": "portrait-of-young-attractive-man-and-woman-sensually-singing-together-recording-song-in-studio.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/portrait-of-young-attractive-man-and-woman-sensually-singing-together-recording-song-in-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 327472,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MZKTCCD"
+        },
+        {
+            "filename": "male-singer-with-tambourine-at-microphone-on-stage.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/male-singer-with-tambourine-at-microphone-on-stage-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 310402,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSABNF6"
+        },
+        {
+            "filename": "young-singer-laying-down-tracks-in-a-recording-home-studio-e1653064941829.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/young-singer-laying-down-tracks-in-a-recording-home-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 278531,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2KNURWB"
+        },
+        {
+            "filename": "music-band.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/music-band-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 345842,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T3V53XD"
+        },
+        {
+            "filename": "young-female-with-microphone-singing-in-front-of-camera.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/young-female-with-microphone-singing-in-front-of-camera-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 350882,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3HUBFA7"
+        },
+        {
+            "filename": "vinyl-record-mockup-a-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/vinyl-record-mockup-a-1-800x539.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 311254,
+            "dimensions": [
+                900,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NDB2K3T"
+        },
+        {
+            "filename": "diamond-beach-in-iceland.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/diamond-beach-in-iceland.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 74295,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-7NFMYT6"
+        },
+        {
+            "filename": "blades-of-the-jet-engine.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/blades-of-the-jet-engine.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 31577,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9G63MWZ"
+        },
+        {
+            "filename": "wedding-rings.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/wedding-rings.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/release.json",
+                    "name": "Release"
+                }
+            ],
+            "filesize": 28488,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-QJQE3MN"
+        },
+        {
+            "filename": "group-of-musician-recording-at-the-studio--e1653064968694.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/group-of-musician-recording-at-the-studio--800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 244888,
+            "dimensions": [
+                1440,
+                958
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QHHGZLB"
+        },
+        {
+            "filename": "new-year-s-eve-concert-e1653064992809.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/new-year-s-eve-concert-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 340446,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CKKN28"
+        },
+        {
+            "filename": "concert-e1653065030868.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/concert-800x759.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 299699,
+            "dimensions": [
+                1440,
+                1366
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M25YNDE"
+        },
+        {
+            "filename": "crowd-of-fans-at-concert.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/crowd-of-fans-at-concert-800x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 221390,
+            "dimensions": [
+                2000,
+                1313
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NVFMPYB"
+        },
+        {
+            "filename": "concert-1-e1653065017856.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/concert-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 372682,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLVMGSU"
+        },
+        {
+            "filename": "musicians-at-mixing-console-recording-studio.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/musicians-at-mixing-console-recording-studio-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 402559,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KDV68DD"
+        },
+        {
+            "filename": "marlie-cassavania.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/marlie-cassavania.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 11981,
+            "dimensions": [
+                610,
+                218
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZW44Z4B"
+        },
+        {
+            "filename": "young-stylish-music-arranger-composing-song-on-midi-piano-in-recording-studio.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/young-stylish-music-arranger-composing-song-on-midi-piano-in-recording-studio-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 299000,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GDB2EAV"
+        },
+        {
+            "filename": "multiracial-artists-singing-on-studio--e1653065061301.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/multiracial-artists-singing-on-studio--800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 294037,
+            "dimensions": [
+                1282,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J4JJ6J8"
+        },
+        {
+            "filename": "close-up-of-microphone-with-equipment-on-mixer-in-music-studio-music-instrument-concept.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/close-up-of-microphone-with-equipment-on-mixer-in-music-studio-music-instrument-concept-800x1208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 304167,
+            "dimensions": [
+                1324,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8EF494R"
+        },
+        {
+            "filename": "female-singer-with-band-recording-music.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/female-singer-with-band-recording-music-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/artist.json",
+                    "name": "Artist"
+                }
+            ],
+            "filesize": 369490,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RKJ4AVN"
+        },
+        {
+            "filename": "headphones-on-music-studio-keyboard-e1653065082450.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/headphones-on-music-studio-keyboard-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 275179,
+            "dimensions": [
+                1282,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VG9LZ7U"
+        },
+        {
+            "filename": "VOIZ-LOGO.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/voiz\/wp-content\/uploads\/sites\/272\/2022\/05\/VOIZ-LOGO.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/jkit-offcanvas.json",
+                    "name": "JKit - Offcanvas"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 10381,
+            "dimensions": [
+                431,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NK75WL"
+        }
+    ]
+}

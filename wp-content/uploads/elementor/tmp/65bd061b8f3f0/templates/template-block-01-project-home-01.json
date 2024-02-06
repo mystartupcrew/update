@@ -1,0 +1,145 @@
+{
+    "version": "0.4",
+    "title": "Template Block 01 Project Home 01",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-portfolio",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "15fdd8be",
+            "settings": {
+                "flex_direction": "column"
+            },
+            "elements": [
+                {
+                    "id": "3e4724ab",
+                    "settings": {
+                        "image": {
+                            "url": "https:\/\/themesflat.com\/brotekit\/wp-content\/uploads\/2023\/12\/Project-BC7U8G4.jpg",
+                            "id": 1190,
+                            "size": "",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "title": "House Cleaning",
+                        "description": "Cleaning Project",
+                        "button_text": "",
+                        "wrap_align": "left",
+                        "image_border_radius": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "image_overlay_background_color": "#1239ACE6",
+                        "content_style": "style-2",
+                        "content_padding": {
+                            "unit": "px",
+                            "top": "285",
+                            "right": "50",
+                            "bottom": "35",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "button_padding": {
+                            "unit": "px",
+                            "top": "15",
+                            "right": "24",
+                            "bottom": "15",
+                            "left": "24",
+                            "isLinked": false
+                        },
+                        "button_border_radius": {
+                            "unit": "%",
+                            "top": "100",
+                            "right": "100",
+                            "bottom": "100",
+                            "left": "100",
+                            "isLinked": true
+                        },
+                        "icon_button": {
+                            "value": "fas fa-angle-right",
+                            "library": "fa-solid"
+                        },
+                        "button_icon_spacer": {
+                            "unit": "px",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "__globals__": {
+                            "image_overlay_background_color": "",
+                            "title_typography_typography": "globals\/typography?id=primary",
+                            "title_color": "globals\/colors?id=f8d6f79",
+                            "title_color_hover": "globals\/colors?id=f8d6f79",
+                            "description_typography_typography": "globals\/typography?id=1669baa",
+                            "description_color": "globals\/colors?id=247e6a3",
+                            "button_bg_color": "globals\/colors?id=secondary",
+                            "button_color": "globals\/colors?id=f8d6f79",
+                            "button_bg_color_hover": "globals\/colors?id=f8d6f79",
+                            "button_color_hover": "globals\/colors?id=primary"
+                        },
+                        "content_padding_laptop": {
+                            "unit": "px",
+                            "top": "250",
+                            "right": "50",
+                            "bottom": "35",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet_extra": {
+                            "unit": "px",
+                            "top": "170",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "content_padding_tablet": {
+                            "unit": "px",
+                            "top": "300",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "unit": "px",
+                            "top": "275",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "_padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "image_scale_hover": {
+                            "0": 1,
+                            "unit": "px",
+                            "size": 1.100000000000000088817841970012523233890533447265625,
+                            "sizes": []
+                        },
+                        "image_overlay_effect": "fade-in-down"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "tfimagebox",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

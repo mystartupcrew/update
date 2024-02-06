@@ -1,0 +1,458 @@
+{
+    "version": "0.4",
+    "title": "Footers",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "63550dda",
+            "settings": {
+                "flex_direction": "row",
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "isLinked": true,
+                    "unit": "px",
+                    "size": 0
+                },
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [],
+                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                "premium_tooltip_position": "top,bottom",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cfe007a"
+                },
+                "boxed_width": {
+                    "unit": "px",
+                    "size": 1305,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "a449f38",
+                    "settings": {
+                        "content_width": "full",
+                        "width": {
+                            "unit": "%",
+                            "size": 28
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "_flex_size": "none",
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom",
+                        "_element_width": "initial"
+                    },
+                    "elements": [
+                        {
+                            "id": "41e9f489",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/kit.nirmanavisual.com\/pintar\/wp-content\/uploads\/sites\/48\/2023\/10\/Logo-Pintar.png",
+                                    "id": 1780,
+                                    "size": "",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align_mobile": "left",
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "align": "left",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 14,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "379b785b",
+                            "settings": {
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=e69913a",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5ef18155",
+                            "settings": {
+                                "social_icon_list": [
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-facebook",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "f3bfd1d"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "d6e6092"
+                                    },
+                                    {
+                                        "social_icon": {
+                                            "value": "fab fa-youtube",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "beb7713"
+                                    },
+                                    {
+                                        "_id": "4d184af",
+                                        "social_icon": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        }
+                                    }
+                                ],
+                                "shape": "circle",
+                                "align": "left",
+                                "icon_color": "custom",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "globals\/colors?id=accent",
+                                    "icon_secondary_color": "globals\/colors?id=038b69a",
+                                    "hover_secondary_color": "",
+                                    "hover_primary_color": "globals\/colors?id=primary"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom",
+                                "hover_animation": "float"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "social-icons",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "3537fb10",
+                    "settings": {
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "598c5ab6",
+                    "settings": {
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "5f69db46",
+                            "settings": {
+                                "title": "Quick Link",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=b21e288"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "47cbf7a5",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "About",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a56b703"
+                                    },
+                                    {
+                                        "text": "Service",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1432648"
+                                    },
+                                    {
+                                        "text": "Pricing",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7add5f9"
+                                    },
+                                    {
+                                        "_id": "da98839",
+                                        "text": "Blog",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "4ea5e27",
+                                        "text": "Contact",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        }
+                                    }
+                                ],
+                                "text_color": "#FFFFFFB3",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=text",
+                                    "icon_typography_typography": "globals\/typography?id=e69913a",
+                                    "text_color_hover": "globals\/colors?id=accent",
+                                    "icon_color": "globals\/colors?id=primary"
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "2d7079fb",
+                    "settings": {
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "539b2698",
+                            "settings": {
+                                "title": "Support",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=b21e288"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "719b26fa",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Privacy Policy",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a56b703"
+                                    },
+                                    {
+                                        "text": "Term & Condition",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1432648"
+                                    },
+                                    {
+                                        "text": "Disclaimer",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7add5f9"
+                                    },
+                                    {
+                                        "_id": "da98839",
+                                        "text": "Support",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "4ea5e27",
+                                        "text": "FAQ",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        }
+                                    }
+                                ],
+                                "text_color": "#FFFFFFB3",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=text",
+                                    "icon_typography_typography": "globals\/typography?id=e69913a",
+                                    "text_color_hover": "globals\/colors?id=accent",
+                                    "icon_color": "globals\/colors?id=primary"
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                },
+                {
+                    "id": "5e9f39b2",
+                    "settings": {
+                        "pa_condition_repeater": [],
+                        "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                        "premium_tooltip_position": "top,bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "4cce3646",
+                            "settings": {
+                                "title": "Contact",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=b21e288"
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52a86521",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "info@support.com",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a56b703"
+                                    },
+                                    {
+                                        "text": "+(0361) 234 567 ",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "1432648"
+                                    },
+                                    {
+                                        "text": "Jalan Raya Sunset Road Denpasar, Bali",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "7add5f9"
+                                    }
+                                ],
+                                "text_color": "#FFFFFFB3",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=text",
+                                    "icon_typography_typography": "globals\/typography?id=e69913a",
+                                    "text_color_hover": "globals\/colors?id=accent",
+                                    "icon_color": "globals\/colors?id=primary"
+                                },
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [],
+                                "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                                "premium_tooltip_position": "top,bottom"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
